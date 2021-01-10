@@ -19,4 +19,7 @@ echo name6
 var whimname:string = "whimsicalities"
 echo whimname
 
+var whimname:string = "Eli"
+echo name 7
+
 # from now please dont use naming convention just make the variable whatever name you want!
