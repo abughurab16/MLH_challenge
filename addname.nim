@@ -9,3 +9,6 @@ echo name3
 
 var name4:string = "Taha"
 echo name4
+
+var name5:string = "Antonio Velazquez"
+echo name4
