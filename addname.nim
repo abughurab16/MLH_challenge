@@ -7,5 +7,8 @@ echo name2
 var name3:string = "Mihai Stanciu"
 echo name3
 
-var name4:string = "Antonio Velazquez"
+var name4:string = "Taha"
+echo name4
+
+var name5:string = "Antonio Velazquez"
 echo name4
