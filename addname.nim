@@ -6,3 +6,6 @@ echo name2
 
 var name3:string = "Mihai Stanciu"
 echo name3
+
+var name4:string = "Taha"
+echo name4
