@@ -6,6 +6,3 @@ echo name2
 
 var name3:string = "Mihai Stanciu"
 echo name3
-
-var nAmE:string = "Nam Tran"
-echo nAmE
