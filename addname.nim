@@ -9,3 +9,6 @@ echo name3
 
 var name4:string = "Antonio Velazquez"
 echo name4
+
+var whimname:string = "whimsicalities"
+echo whimname
