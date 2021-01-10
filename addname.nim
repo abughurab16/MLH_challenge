@@ -10,5 +10,10 @@ echo name3
 var name4:string = "Taha"
 echo name4
 
-var name5:string = "Antonio Velazquez"
-echo name4
+var name5:string = "Prathamesh Shanbhag"
+echo name5
+
+var name6:string = "Antonio Velazquez"
+echo name6
+
+# from now please dont use naming convention just make the variable whatever name you want!
