@@ -1,4 +1,4 @@
-var name1:string = "Ahmed"
+﻿var name1:string = "Ahmed"
 echo name1
 
 var name2:string = "Utkarsh Singh"
@@ -39,5 +39,10 @@ echo changer_name
 
 var dev_sepian:string = "Jaskeerat"
 echo dev_sepian
+
+var my_name:string = “Unnati”
+echo my_name 
+var my_name:string = “Unnati1”
+echo my_name
 
 # from now please dont use naming convention just make the variable whatever name you want!
