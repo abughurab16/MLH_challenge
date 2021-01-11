@@ -28,4 +28,8 @@ echo myName
 var my_name:string = "Unni"
 echo my_name
 
+
+var ich_heiße:string = "devELIOper"
+echo ich_heiße
+
 # from now please dont use naming convention just make the variable whatever name you want!
