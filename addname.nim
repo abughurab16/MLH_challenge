@@ -42,4 +42,5 @@ echo dev_sepian
 
 var my_name:string = “Unnati”
 echo my_name 
+var my_name:string = “Unnati1”
 # from now please dont use naming convention just make the variable whatever name you want!
