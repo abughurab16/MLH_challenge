@@ -28,6 +28,8 @@ echo myName
 var my_name:string = "Unni"
 echo my_name
 
+var my_name:string = "hanifzaans"
+echo my_name
 
 var ich_heiße:string = "devELIOper"
 echo ich_heiße
