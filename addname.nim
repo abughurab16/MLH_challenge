@@ -34,4 +34,7 @@ echo my_name
 var ich_heiße:string = "devELIOper"
 echo ich_heiße
 
+var changer_name:string = "Abhishek"
+echo changer_name
+
 # from now please dont use naming convention just make the variable whatever name you want!
