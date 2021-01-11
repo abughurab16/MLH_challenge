@@ -25,4 +25,7 @@ echo name 7
 var myName:string = "Mikey San"
 echo myName
 
+var my_name:string = "Unni"
+echo my_name
+
 # from now please dont use naming convention just make the variable whatever name you want!
